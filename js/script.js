@@ -98,7 +98,7 @@ floatBtn.addEventListener('click', () => {
   floatBtn.classList.toggle('rotate');
 
   wa.addEventListener('click', () => {
-    window.location.href = "https://api.whatsapp.com/send/?phone=%2B6281910090007"
+    window.location.href = "https://api.whatsapp.com/send/?phone=%2B6281910090007&text=Halo"
   })
   ig.addEventListener('click', () => {
     window.location.href = "https://www.instagram.com/nathan5aja"
